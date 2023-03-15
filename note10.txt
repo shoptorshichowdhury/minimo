@@ -1,0 +1,8 @@
+font-family:
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+
+
+colour list:
+Grey - #626262
+light ash- #b4ad9e
